@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    background-color: #f1f1f1;
+    padding: 13px 15px;
+}
+.content p{
+    font-size: 30px;
+    font-weight: 600;
+}
+.main{
+    padding-top: 7px;
+    margin-left: 27px;
+}
+.registration a{
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+a.links{
+    background-color: red;
+    padding: 10px 12px;
+}
+a.linked{
+    background-color: Dodgerblue;
+    padding: 10px 12px;
+}
+.center{
+    transform: translateY(100%);
+    margin-left: 19px;
+    padding-top: 13%;
+}
+.center p{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.7em;
+    letter-spacing: 0.1em;
+}
+.register{
+    padding-top: 15px;
+}
+.register span{
+    color: rgba(0,0,0,0.7);
+    font-size: 14px;
+    margin-left: 5px;
+}
+a.leggo{
+    color: white;
+    background-color: black;
+    padding: 12px 14px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+}
+a.loginn{
+    font-size: 14px;
+    color: #000;
+}

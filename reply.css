@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: verdana;
+    background-color: #f1f1f1;
+}
+.main{
+    padding: 14px 16px;
+}
+p.header{
+    font-size: 18px;
+    font-weight: 600;
+}
+img.messageicon{
+    width: 8%;
+    height: 8%;
+    float: right;
+}
+img.profile{
+    width: 34px;
+    height: 34px;
+    border-radius: 17px;
+    float: left;
+    padding-top: 2px;
+}
+span.name{
+    font-size: 16px;
+    font-weight: 550;
+    margin-left: 8px;
+    color: black
+}
+span.time{
+    float: right;
+    color: rgba(0,0,0,0.5);
+    font-size: 13px;
+}
+span.replies{
+    margin-left: 8px;
+    font-size: 13px;
+    color: rgba(0,0,0,0.5);
+}
+.section{
+   padding-top: 30px;
+   padding-bottom: 70px;
+}
+.segment{
+    padding: 10px 0px 9px 0px;
+}
+.feeter{
+    display: flex;
+    background-color: white;
+    padding: 7px;
+    bottom: 0; 
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+.feeter a{
+    margin: 19px;
+    text-align: center;
+}
+img.iconic{
+    height: 31px;
+    width: 31px;
+}
+img.iconic2{
+    height: 30px;
+    width: 30px;
+}
+img.iconic3{
+    height: 32px;
+    width: 32px;
+}
+img.iconic4{
+    height: 32px;
+    width: 32px;
+}
+img.iconic5{
+    height: 30px;
+    width: 30px;
+}
