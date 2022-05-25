@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    font-weight: verdana;
+    font-family: verdana;
     background-color: #f1f1f1;
 }
 .content{
@@ -108,13 +108,14 @@ span.phycont{
 .feeter{
     display: flex;
     background-color: #f1f1f1;
-    padding: 7px;
+    padding: 0px;
     bottom: 0; 
+    left: 0;
     position: fixed;
     width: 100%;
 }
 .feeter a{
-    margin: 17px;
+    margin: 19px;
     text-align: center;
 }
 img.iconic{
